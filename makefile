@@ -3,7 +3,6 @@
 JAVAC=javac
 SOURCE=src
 JAVA = *.java
-CLASS = *.class
 BIN = bin
 
 all: project
