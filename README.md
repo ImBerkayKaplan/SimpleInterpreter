@@ -1,6 +1,8 @@
 # SimpleInterpreter
 
-﻿## Files
+This program is an interpreter for a very simple language CORE. The syntax is included and contains only very basic functions.
+
+## Files
 
 Main: The file that reads one input file by command line argument and runs the Tokenizer class to output the corresponding codes to the screen.
 
